@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 <h3 align="left">Languages and Tools:</h3>
@@ -57,6 +57,10 @@
 </div>
 
 ###
+
+<img  align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="dumpareethika@gmail.com" target="_blank">
@@ -74,6 +78,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Re2tu/Re2tu/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Re2tu/Re2tu/output/snake.svg" alt="Snake animation" /> -->
 
 ###
