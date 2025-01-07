@@ -3,7 +3,7 @@
 <h2 align="center">Namaste 🙏</h2>
 
 ###
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Re2tu&label=Profile%20views&color=0e75b6&style=flat" alt="Re2tu" /> </p>
 
  - 🌱 I’m currently learning **Machine Learning**
