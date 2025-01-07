@@ -6,11 +6,13 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Re2tu&label=Profile%20views&color=0e75b6&style=flat" alt="Re2tu" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+ - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to contribute to **Open-source projects**
+- 👯 I’m looking to contribute to **Open-Source Projects**
 
 - 💬 Ask me about **DSA, MERN Stack**
+
+- 📫 How to reach me **dumpareethika@gmail.com**
  
 
 <div align="center">
@@ -62,7 +64,7 @@
 
 ###
 <h3 align="left">Connect with me:</h3>
-<div align="left">
+<!-- <div align="left">
   <a href="dumpareethika@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -72,7 +74,17 @@
   <a href="https://www.hackerrank.com/profile/dumpareethika" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-</div>
+</div> -->
+<p align="left">
+
+<a href="https://www.linkedin.com/in/reethika-dumpa-737518252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reethika-dumpa-737518252" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/reethika_547/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="reethika_547" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/dumpareethika/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dumpareethika" height="30" width="40" /></a>
+<a href="https://leetcode.com/Reetu_09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Reetu_09" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dumpareethika/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dumpareethika" height="30" width="40" /></a>
+
+
+</p>
 
 ###
 
