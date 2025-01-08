@@ -94,6 +94,6 @@
 
 <br clear="both">
 
-<!-- <img src="https://raw.githubusercontent.com/Re2tu/Re2tu/output/snake.svg" alt="Snake animation" /> -->
+<!-- <img src="https://raw.githubusercontent.com/Re2tu/Re2tu/output/snake.svg" alt="Snake animation" /> --> 
 
 ###
