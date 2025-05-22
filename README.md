@@ -10,7 +10,7 @@
 
 <img  align="right" margin-right="100" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
- - 🌱 I’m currently learning **Machine Learning**
+ - 🌱 I’m currently learning **Java SpringBoot**
 
 - 👯 I’m looking to contribute to **Open-Source Projects**
 
